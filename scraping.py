@@ -54,7 +54,6 @@ def mars_news(browser):
 
     return news_title, news_p
 
-
 def featured_image(browser):
     # Visit URL
     url = 'https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html'
